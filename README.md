@@ -5,7 +5,7 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 </div>
 <div align="center">
 
-# 🤖 AI Therapy Chat Simulation ✨
+# 🤖 AI Therapy Chat - VieroMind ✨
 
 **Observe and participate in engaging debates between AI personas!**
 
