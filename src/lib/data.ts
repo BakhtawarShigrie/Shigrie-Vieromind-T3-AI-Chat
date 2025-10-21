@@ -41,7 +41,7 @@ export const topics: Topic[] = [
     participants: allTherapists,
     initialMessages: [
       {
-        id: 1,
+        id: crypto.randomUUID(),
         author: "Dr. Sarah Chen",
         time: "2:34 PM",
         content:
@@ -61,7 +61,7 @@ export const topics: Topic[] = [
     participants: allTherapists,
     initialMessages: [
       {
-        id: 2,
+        id: crypto.randomUUID(),
         author: "Dr. James Williams",
         time: "10:15 AM",
         content:
@@ -81,7 +81,7 @@ export const topics: Topic[] = [
     participants: allTherapists,
     initialMessages: [
       {
-        id: 3,
+        id: crypto.randomUUID(),
         author: "Dr. Maria Rodriguez",
         time: "4:00 PM",
         content:
