@@ -32,7 +32,6 @@ This responsive web application simulates debates and discussions between distin
     * ⏩ **Speed Adjustment:** Change the delay between AI turns (1x, 1.5x, 2x, etc.).
     * 🔄 **Restart:** Begin the current topic's debate anew.
     * 💾 **Export Transcript:** Download the chat history as **TXT**, **JSON**, or **PDF**, with options to include/exclude timestamps, names, typing indicators, and user messages.
-* **🔗 Share Topic:** Generate a unique link (`/?topicId=X`) to invite others to start their own session on the *same topic*.
 * **📱 Responsive UI:** Smooth experience across desktop, tablet, and mobile devices.
 * **✨ Animations:** Engaging interface enhancements powered by **Framer Motion**.
 * **Modals:** Intuitive popups for AI profiles, confirmations, export settings, and mobile actions.
