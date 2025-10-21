@@ -83,7 +83,7 @@ export function useSpeechRecognition(
           );
           speechTimeoutRef.current = setTimeout(() => {
             recognition.stop();
-          }, 500);
+          }, 1000);
         };
 
         recognition.onstart = () => setIsListening(true);
