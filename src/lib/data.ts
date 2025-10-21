@@ -55,7 +55,7 @@ export const topics: Topic[] = [
   {
     id: 2,
     icon: "💻",
-    title: "Digital Therapy vs Traditional Sessions",
+    title: "Digital vs Traditional Therapy",
     description: "The effectiveness of online therapy sessions",
     tags: ["5 min", "Technology"],
     participants: allTherapists,
