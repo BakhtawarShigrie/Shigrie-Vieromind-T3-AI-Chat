@@ -110,7 +110,7 @@ export const ChatView = ({
       console.log(
         "%cAPI Key Error",
         consoleErrorStyle,
-        "Gemini API key not found. Please set NEXT_PUBLIC_GEMINI_API_KEY in your .env.local file.",
+        "Shigrie's Support team: Please ensure the API key in the .env file is uncommented to get responses from Gemini.",
       );
       const errorMessage: Message = {
         id: crypto.randomUUID(),
